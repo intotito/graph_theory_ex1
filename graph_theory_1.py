@@ -106,12 +106,6 @@ def countString(string: str) -> str:
             temp = set.get
         else : 
             set.add(0)
-        
-
-
-
-
-
 
 
 count = [0]
